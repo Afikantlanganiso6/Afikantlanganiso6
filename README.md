@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-<div> <h1>Portfolio= https://afikantlanganiso6.github.io/https---github.com-Afikantlanganiso6-HospitalProject/#hero</h1></div>
+<div> <h1>Portfolio</h1> https://afikantlanganiso6.github.io/https---github.com-Afikantlanganiso6-HospitalProject/#hero</div>
 
 ###
 
